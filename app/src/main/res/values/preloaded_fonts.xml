@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/autour_one</item>
+        <item>@font/bevan</item>
+        <item>@font/biryani_extrabold</item>
+        <item>@font/carter_one</item>
+        <item>@font/eagle_lake</item>
+    </array>
+</resources>
